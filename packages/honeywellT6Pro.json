@@ -1,9 +1,9 @@
 {
-  "packageName": "Advanced Honeywell T6 Pro Thermostat",
+  "packageName": "Advanced Honeywell T6 Pro Thermostat - PATCHED",
   "author": "Bryan Copeland",
-  "version": "1.2",
+  "version": "1.2.3",
   "minimumHEVersion": "2.1.9",
-  "dateReleased": "2021-01-22",
+  "dateReleased": "2022-01-09",
   "drivers": [
     {
       "id": "964d2bec-9ad6-4c1b-81fe-41cb75c2d357",
