@@ -2,12 +2,5 @@
   "author": "Jeffrey Honig",
   "gitHubUrl": "https://github.com/jchonig/hubitat",
   "packages": [
-    {
-      "id": "e3a3e167-5d68-4a89-b5d9-24fd428c113f",
-      "name": "PATCHED: Advanced Honeywell T6 Pro ",
-      "category": "Control",
-      "location": "https://raw.githubusercontent.com/jchonig/hubitat/main/packages/honeywellT6Pro.json",
-      "description": "Patched version of Bryan Copeland's driver"
-    }
   ]
 }
